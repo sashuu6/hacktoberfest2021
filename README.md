@@ -10,7 +10,7 @@ I will accept any Pull Requests😁.
 1. Add your name and github username to CONTRIBUTORS.md present in the project repository.
 
    ```bash
-   echo "Sashwat K - sashuu6" >> CONTRIBUTORS.md
+   echo "Sashwat K - sashuu6\n\n" >> CONTRIBUTORS.md
    ```
 
 2. Create folder (if not present) of programming language you would like to contribute.
